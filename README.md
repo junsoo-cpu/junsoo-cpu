@@ -1,4 +1,7 @@
 # 안녕하세요 파이썬 공부하는 초보 개발자 이준수입니다.
+
+![](https://github.com/junsoo-cpu/junsoo-cpu/raw/main/assets/jari-hytonen-YCPkW_r_6uA-unsplash.jpg)
+
 -------------------------
 # 자기소개
 + 한서대학교 졸업
