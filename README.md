@@ -18,7 +18,6 @@
 + 장고
 
 <div align=center>
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=DevpSoo&fontSize=90) 
   
   [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black)](github.com/Joowon0220/TODO-List)
   [![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=green)](github.com/Joowon0220/TODO-List)
