@@ -21,6 +21,9 @@
 [![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=green)](github.com/Joowon0220/TODO-List)
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)](github.com/Joowon0220/TODO-List)
 
+<a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
+      <img src="https://img.shields.io/badge/Supported%20by-Python%20Power%20User%20%E2%86%92-gray.svg?colorA=3776AB1&colorB=4F44D6&style=for-the-badge"/>
+
 <a href="https://a.paddle.com/v2/click/16413/119403?link=2345">
       <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
   
