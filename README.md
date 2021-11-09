@@ -17,9 +17,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=DevpSoo&fontSize=90)
 <p align="center">
-      [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black)](github.com/Joowon0220/TODO-List)
-      [![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=green)](github.com/Joowon0220/TODO-List)
-      [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)](github.com/Joowon0220/TODO-List)
+      <[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black)](github.com/Joowon0220/TODO-List)>
+      <[![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=green)](github.com/Joowon0220/TODO-List)>
+      <[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)](github.com/Joowon0220/TODO-List)>
 
 <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
       <img src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
